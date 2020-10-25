@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -61,4 +60,3 @@
 </div>
 
 </body>
-</html>
